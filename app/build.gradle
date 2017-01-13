@@ -27,5 +27,5 @@ dependencies {
     compile 'com.android.support:design:25.0.1'
 
     compile 'com.sdklite:gson:0.0.2'
-    compile 'com.sdklite.rpc:http:0.0.3-SNAPSHOT'
+    compile 'com.sdklite.rpc:http:0.0.4'
 }
